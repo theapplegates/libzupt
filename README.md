@@ -11,8 +11,10 @@ The main goal of libzupt is to enable current applications to be protected again
 The name **zupt** is atribute to the original project created by [**Cristian Cezar Moisés**](https://github.com/cristiancmoises), acknowledging his fundamental contribution to the conceptual and technical foundation of this solution. This inspiration reinforces the library’s commitment to innovation, security, and the evolution of ideas that drive modern applied cryptography forward.
 
 <div align="center">
-<img width="480" height="487" alt="image" src="https://github.com/user-attachments/assets/df6a4a01-ca23-4b34-a5bf-d38a4c31d48c" />
+<img width="480" height="487" alt="image" src="https://github.com/user-attachments/assets/df6a4a01-ca23-4b34-a5bf-d38a4c31d48c" /><br>
+<img width="300"alt="image" src="https://github.com/user-attachments/assets/434acb7e-e877-495b-8d00-ef7ca873e4aa" />
 </div>
+
 
 ## Overview
 
